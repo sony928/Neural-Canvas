@@ -29,7 +29,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/sony928/NeuralCanvas.git
+git clone https://github.com/sony928/Neural-Canvas.git
 cd NeuralCanvas
 Add your content and style images to the project folder.
 
