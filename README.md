@@ -45,7 +45,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/NeuralCanvas.git
+git clone https://github.com/sony928/NeuralCanvas.git
 cd NeuralCanvas
 Add your images to the folder (e.g., content.jpg and style.jpg).
 
